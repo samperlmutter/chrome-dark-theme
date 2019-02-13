@@ -4,7 +4,7 @@
 	"name": "Chrome Dark Theme",
 	"description": "A dark theme for Chrome. Forked from the popular Material Incognito Dark Theme.",
 
-	"version": "1.0.0",
+	"version": "1.1.0",
 
 	"icons": {
 		"128": "images/icon128.png"
@@ -20,7 +20,7 @@
 			"frame_inactive": [0, 0, 0],
 			"frame_incognito": [0, 0, 0],
 			"frame_incognito_inactive": [0, 0, 0],
-			"toolbar": [0, 0, 0],
+			"toolbar": [51, 54, 57],
 			"tab_text": [255, 255, 255],
 			"tab_background_text": [255, 255, 255],
 			"tab_background_text_incognito": [255, 255, 255],
