@@ -1,10 +1,10 @@
 {
 	"manifest_version": 2,
 
-	"name": "Material Incognito Dark Theme",
-	"description": "A theme that adds the dark Incognito Mode colour scheme to the normal mode of Chrome.",
+	"name": "Chrome Dark Theme",
+	"description": "A dark theme for Chrome. Forked from the popular Material Incognito Dark Theme.",
 
-	"version": "5.1.0",
+	"version": "1.0.0",
 
 	"icons": {
 		"128": "images/icon128.png"
@@ -16,25 +16,25 @@
 			"theme_ntp_background": "images/material_refresh_grey.png"
 		},
 		"colors": {
-			"frame": [32, 33, 36],
-			"frame_inactive": [60, 64, 67],
-			"frame_incognito": [32, 33, 36],
-			"frame_incognito_inactive": [60, 64, 67],
-			"toolbar": [50, 54, 57],
-			"tab_text": [241, 243, 244],
-			"tab_background_text": [189, 193, 198],
-			"tab_background_text_incognito": [189, 193, 198],
-			"tab_background_text_inactive": [168, 171, 175],
-			"tab_background_text_incognito_inactive": [168, 171, 175],
-			"bookmark_text": [241, 243, 244],
-			"ntp_background": [50, 54, 57],
+			"frame": [0, 0, 0],
+			"frame_inactive": [0, 0, 0],
+			"frame_incognito": [0, 0, 0],
+			"frame_incognito_inactive": [0, 0, 0],
+			"toolbar": [0, 0, 0],
+			"tab_text": [255, 255, 255],
+			"tab_background_text": [255, 255, 255],
+			"tab_background_text_incognito": [255, 255, 255],
+			"tab_background_text_inactive": [202, 202, 202],
+			"tab_background_text_incognito_inactive": [202, 202, 202],
+			"bookmark_text": [255, 255, 255],
+			"ntp_background": [45, 45, 45],
 			"ntp_text": [255, 255, 255]
 		},
 		"tints": {
 			"buttons": [-1, -1, 0.96]
 		},
 		"properties": {
-			"ntp_logo_alternate": 1,
+			"ntp_logo_alternate": 0,
 			"ntp_background_repeat": "repeat"
 		}
 	}
